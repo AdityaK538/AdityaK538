@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @AdityaK538
-- 👀 I’m interested in Web Development with JAVA
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested in Web Development and thing related IT
 - 💞️ I’m looking to collaborate on Frontend projects and Backend projects
 - 📫 How to reach me @ adityakumarak050@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like Warhammer
 
 <!---
