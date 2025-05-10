@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdityaK538
-- 👀 I’m interested in Web Development and thing related IT
-- 💞️ I’m looking to collaborate on Frontend projects and Backend projects
+- 👀 I’m interested in Web, App, Game developement. mostly on Web part
+- 💞️ I’m looking to collaborate on any suitable projects
 - 📫 How to reach me @ adityakumarak050@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like Warhammer
