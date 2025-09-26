@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdityaK538
-- 👀 I’m interested in Web, App, Game developement. mostly on Web part
+- 👀 I’m interested in Web, Game developement. mostly on Web developement
 - 💞️ I’m looking to collaborate on any suitable projects
 - 📫 How to reach me @ adityakumarak050@gmail.com
 - 😄 Pronouns: He/Him
